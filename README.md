@@ -1,2 +1,2 @@
 # NLPStudy
-Study Notes for Studying NLP
+Study Notes for NLP Basics
